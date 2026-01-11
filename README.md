@@ -4,7 +4,7 @@ learning
 secret_number = 7
 a = 0
 i = 3
-print("🎮 Welcome to the Number Guessing Game!")
+print("🎮 Welcome to the Number Guessing Game! Created by Harsh Gautam")
 print("I have selected a number between 1 and 10.")
 
 while a < i:
